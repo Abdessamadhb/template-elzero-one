@@ -101,7 +101,7 @@ html {
     border-bottom: 1px solid rgb(184, 184, 184) ;
 }
 .landing {
-    background-image: url(./imgs/mountain.jpg);
+    background-image: url(imgs/mountain.JPJ);
     background-size: cover;
     height: calc(100vh - 55px);
     position: relative;
